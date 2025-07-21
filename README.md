@@ -38,3 +38,17 @@ Supports:
 
 ## 🛠️ How to Run
 1. Clone this repo:
+git clone https://github.com/your-username/online-course-management-system
+cd online-course-management-system
+
+2. Open `main.js` in browser console or run with Node.js:
+   node main.js
+
+3. Follow the demo inside `main.js`.
+
+## 🎥 Video Walkthrough
+Will be added soon...
+
+---
+
+© Harish Ragav S
